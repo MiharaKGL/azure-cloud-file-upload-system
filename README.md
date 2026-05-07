@@ -62,6 +62,10 @@ Through this project, the following cloud computing concepts were learned:
 - Implementing CORS settings
 - Integrating frontend applications with cloud storage using JavaScript
 
+Demonstration Video:
+https://github.com/user-attachments/assets/3b7e8833-e968-44aa-a9d1-a3edf2a82725
+
+
 Conclusion
 This project successfully demonstrates how cloud infrastructure and storage services can be integrated to build a functional file upload platform. By combining Azure Virtual Machines, Blob Storage, and JavaScript-based frontend development, the application provides a practical example of modern cloud-based web hosting and storage integration. The project also highlights secure cloud communication techniques using SAS authentication.
 
